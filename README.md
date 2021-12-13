@@ -3,6 +3,7 @@
 ## Ссылки на google colab ноутбуки
 
 Подготавливаем файлы для аннотации:
+https://colab.research.google.com/drive/1ZTi8gm4zJDLKtXZS-Lt634JywdbTxgJ9?usp=sharing
 
 
 Используем полученные файлы для создания аннотированного генома бактерии в формате GenBank:
