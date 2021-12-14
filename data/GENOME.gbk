@@ -1,0 +1,86 @@
+LOCUS       scaffold16_cov214       1599 bp    DNA              UNK 01-JAN-1980
+DEFINITION  scaffold16_cov214.
+ACCESSION   scaffold16_cov214
+VERSION     scaffold16_cov214
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     CDS             complement(2..105)
+                     /locus_tag="3559"
+                     /translation="KYALGRYINDFYNRTRLHSGIGYCSPMEYERIAA"
+                     /note="CCU71593.1"
+     CDS             complement(407..780)
+                     /locus_tag="3560"
+                     /translation="MPREAMCNCNEQPTLIDISENHSDFKSKLQQLDVGDWVLLMQCPD
+                     CKQLYRVDECDKYQTCYAVKIPSRENWEAFDSESLIREQIVQNRGGLTNELCMWSGCDI
+                     KQVKGSAYCANHLYSGGARE"
+                     /note="not found"
+     CDS             complement(917..1560)
+                     /locus_tag="3561"
+                     /translation="MPKPRKELISIEATPYYHCVSRCVRRAFLCGTDEEGRSFEHRRGW
+                     IEHLLLEQAKVYCIDIAAYAVMSNHFHAVLHINQAKSKGLTDIEVVQRWHQLYKGTLVS
+                     QQFERGEELREDQWILLRRNIEEWRSRLMSISWFMRRLNETIARLANDEDECTGHFWEG
+                     RFKSQALLDEKALAACMAYVDLNPVRAAMAKTPEESKHTSVKKRAEKAKEA"
+                     /note="CCU72281.1"
+ORIGIN
+        1 aagtatgctt tgggacgtta cattaatgat ttttataatc gaacccggct gcattcaggg
+       61 attggttatt gttcaccgat ggaatacgag cgaatagcag catgaaaatt catgtgtccg
+      121 ttttatcggg gcaagatcat tttagtaaaa ccttcactag atttaaggct agatgtcgca
+      181 attacttcac aaataatagc agcggataaa aacaaccagt ttttcacagc tttctccaat
+      241 gtatctattc tgcaaaagat taaactaatt ctttaaaaat gagcagtctt gttcttttga
+      301 tgaagctgtg cgcacgtgag gcagttaacg cccggccttg gggcgcatgc tttttgcgcg
+      361 tccctccacg tttttcagtg gcctcaacgg ccgcttgtta aatgcttact cacgggcacc
+      421 acctgaatag agatgattag cacagtaagc actgcctttt acctgcttaa tgtcacaacc
+      481 tgaccacatg cataactcgt tggtaaggcc accgcgattt tggacgattt gctctcttat
+      541 tagtgactca ctatcaaatg cttcccagtt ttcgcgagag ggaattttga ctgcatagca
+      601 ggtttgatat ttatcacact catccaccct gtagagttgc ttgcaatcgg gacattgcat
+      661 taacaaaacc caatccccaa catccagttg ctgtagcttt gatttgaaat cagagtgatt
+      721 ctcgctgata tcaattaaag tgggttgttc gttgcaattg cacatagctt ctcttggcat
+      781 ttaacgccca aagcagagga atatttccca ctaccttgcg cgtgtacgga cagtcatcct
+      841 aagaagaatg cccgattgat caggaacgtc aataccgcta gtttgaaaat acgaagcaag
+      901 ttgcaggagg ctaggatgcc taaaccgaga aaagagctta tctcaatcga agccacaccc
+      961 tactaccact gtgtttcgcg ctgtgtaagg cgcgcattcc tatgtggaac agacgaggaa
+     1021 ggtcgtagtt ttgagcatag gcgcggctgg atcgagcatc tactactcga acaagccaag
+     1081 gtctactgta ttgatatcgc agcttacgct gtaatgtcga accacttcca cgcagtactt
+     1141 catatcaacc aagccaagtc taaagggtta accgacattg aagtcgttca acgctggcat
+     1201 cagttatata aaggcaccct cgtttcacag cagtttgaac gtggcgagga attgcgggag
+     1261 gatcaatgga tattgctacg gcgaaatatc gaagaatggc gctcacgact aatgagcatc
+     1321 agctggttta tgcgccggtt aaatgaaaca atcgcgcgct tagcaaatga tgaagatgaa
+     1381 tgcacgggtc atttctggga aggccgattt aaatcccaag ccttgctgga tgaaaaagct
+     1441 ctagccgcat gcatggctta cgtcgattta aatccagtgc gcgcagccat ggcaaagaca
+     1501 ccggaagaat ctaagcatac atcggtgaaa aaacgtgctg agaaagcaaa agaagcgtaa
+     1561 gcgctcaagc aaccccacct accaatttaa ataaccgcc
+//
+LOCUS       scaffold19_cov270        488 bp    DNA              UNK 01-JAN-1980
+DEFINITION  scaffold19_cov270.
+ACCESSION   scaffold19_cov270
+VERSION     scaffold19_cov270
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     CDS             complement(4..113)
+                     /locus_tag="3564"
+                     /translation="EVSTAESASDAVSSTPKKASGRKPLPAVLPRVRIEH"
+                     /note="CCU70866.1"
+                     /product="transposase IS66"
+     CDS             complement(175..449)
+                     /locus_tag="3565"
+                     /translation="MAGERYNEEFKIAAVKQVTEHGYSIADVAQRLGITTKSLYNWRDR
+                     YGENAQAYQEKQSSHEELRKLKAELKRVTEERDILKEAAVFFAAES"
+                     /note="CCU73711.1"
+                     /product="transposase orfA"
+ORIGIN
+        1 cagaagtgag caccgcagaa tcagcctctg atgctgtatc gtctacgcct aaaaaagcct
+       61 ccggacgtaa acctctacct gcggtattac cgcgagtacg catcgaacac tgaatcgccc
+      121 ctagttatct agacactctt taaagttaca atgtatttaa agaggaggcc gatatggctg
+      181 gtgaacgata taacgaagaa ttcaagatcg cagcagtaaa gcaagtgacc gaacatggtt
+      241 actccattgc tgatgttgct cagcgtttag gcattacaac taagagcttg tacaactggc
+      301 gtgatcgtta cggcgagaat gcgcaagcct atcaagagaa gcaatctagt cacgaagagc
+      361 tgcgtaagct taaggctgaa ctgaagcgtg ttactgagga gcgtgacata ttaaaggagg
+      421 ccgccgtgtt ctttgctgcc gagtcgtaag cgctcaaaca accccaccta aaacccacgc
+      481 caacatcc
+//
