@@ -8,11 +8,12 @@ https://colab.research.google.com/drive/1ZTi8gm4zJDLKtXZS-Lt634JywdbTxgJ9?usp=sh
 
 Используем полученные файлы для создания аннотированного генома бактерии в формате GenBank:
 
-Для двух коротких скаффолдов:
+1) Для всех скаффолдов:
+https://colab.research.google.com/drive/1zHXy68FB4RfNjDReCrhJoJuffTJ4MoeT?usp=sharing
+
+2) Для двух коротких скаффолдов:
 https://colab.research.google.com/drive/1bJQL8feBkTOud6_BQjuvr0lkizepoIbl?usp=sharing
 
-Для всех скаффолдов:
-https://colab.research.google.com/drive/1zHXy68FB4RfNjDReCrhJoJuffTJ4MoeT?usp=sharing
 
 ## Статистика
 
