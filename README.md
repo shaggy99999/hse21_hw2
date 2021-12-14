@@ -7,7 +7,7 @@ https://colab.research.google.com/drive/1ZTi8gm4zJDLKtXZS-Lt634JywdbTxgJ9?usp=sh
 
 
 Используем полученные файлы для создания аннотированного генома бактерии в формате GenBank:
-
+https://colab.research.google.com/drive/1bJQL8feBkTOud6_BQjuvr0lkizepoIbl?usp=sharing
 
 ## Статистика
 
